@@ -17,11 +17,11 @@
     <a href="https://github.com/siyaa-dev/forest-fire-prediction"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/siyaa-dev/Forest-fire_Prediction/blob/main/app.py">View Flask app code</a>
+    <a href="https://github.com/siyaa-dev/Forest-fire-Prediction/blob/main/app.py">View Flask app code</a>
     ·
-    <a href="https://github.com/siyaa-dev/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-2%20Model.ipynb"> Model Building</a>
+    <a href="https://github.com/siyaa-dev/Forest-fire-Prediction/blob/main/Forest%20Fire%20Part-2%20Model.ipynb"> Model Building</a>
     ·
-    <a href="https://github.com/siyaa-dev/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-1%20EDA.ipynb">EDA on Forest Fires dataset</a>
+    <a href="https://github.com/siyaa-dev/Forest-fire-Prediction/blob/main/Forest%20Fire%20Part-1%20EDA.ipynb">EDA on Forest Fires dataset</a>
   </p>
 </div>
 
