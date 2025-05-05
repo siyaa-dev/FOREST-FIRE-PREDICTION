@@ -14,7 +14,7 @@
   <p align="center">
     Machine Learning Project
     <br />
-    <a href="https://github.com/siyaa-devv/forest-fire-prediction"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/siyaa-dev/forest-fire-prediction"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
     <a href="https://github.com/siyaa-dev/Forest-fire_Prediction/blob/main/app.py">View Flask app code</a>
